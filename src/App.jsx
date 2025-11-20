@@ -138,7 +138,6 @@ export default function App() {
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5 }}
             >
-              <h3 className="text-lg font-semibold mb-4 text-center">Contact GREY SEA CAPITAL</h3>
               <p className="text-sm text-neutral-400 text-center mb-6">Email us at</p>
               <div className="flex items-center justify-center">
                 <a
