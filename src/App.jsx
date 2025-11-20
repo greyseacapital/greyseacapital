@@ -141,7 +141,7 @@ export default function App() {
               <p className="text-sm text-neutral-400 text-center mb-6">Email us at</p>
               <div className="flex items-center justify-center">
                 <a
-                  href="mailto:david@greyseacapital.com"
+                  href="mailto:contact@greyseacapital.com"
                   className="rounded-md border border-neutral-600 px-5 py-3 text-sm font-medium text-white hover:text-black hover:bg-white transition"
                 >
                   david@greyseacapital.com
