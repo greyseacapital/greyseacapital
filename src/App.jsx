@@ -144,7 +144,7 @@ export default function App() {
                   href="mailto:contact@greyseacapital.com"
                   className="rounded-md border border-neutral-600 px-5 py-3 text-sm font-medium text-white hover:text-black hover:bg-white transition"
                 >
-                  david@greyseacapital.com
+                  contact@greyseacapital.com
                 </a>
               </div>
             </motion.div>
